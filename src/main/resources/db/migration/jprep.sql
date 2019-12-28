@@ -19,9 +19,9 @@
 -- Current Database: `polling_app`
 --
 
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `polling_app` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `job_prep_app` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */;
 
-USE `polling_app`;
+USE `job_prep_app`;
 
 --
 -- Table structure for table `choices`
@@ -209,4 +209,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-12-27 22:12:48
+-- Dump completed on 2019-12-28 13:55:17
